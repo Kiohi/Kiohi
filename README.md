@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Iván, but my friends and colleagues call me Kiohi
-- 🌱 I’m currently learning C# programming in .NET, and trying my best with HTML, CSS and JavaScript ...
+- 👋
+- 🌱
 - 📫 How to reach me ivancgutierrezkiohi@gmail.com
 
 <!---
